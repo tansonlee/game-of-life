@@ -12,7 +12,7 @@
 	* [Random](#random)
 4. [How to use](#how-to-use)
 
->
+
 
 ## Introduction
 
@@ -23,7 +23,7 @@ As time passes, cells either die or come alive according to specific rules.
 
 <p align="center">
 	<img src="assets/random.gif" width="600px">
-</p
+</p>
 
 ## Rules
 
