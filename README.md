@@ -10,6 +10,7 @@
 	* [Spaceships](#spaceships)
 	* [Generators](#generators)
 	* [Random](#random)
+4. [How to use](#how-to-use)
 
 ## Introduction
 
@@ -46,6 +47,18 @@ These patterns grow indefinitely by generating spaceships during each period.
 #### Random
 
 These patterns behave chaotically and either become destroyed or become one of the other forms
+
+
+## How to Use
+
+**Buttons**
+* start/stop: starts and stops the simulation.
+* clear: clears all live cells on the grid; results in an empty grid.
+* randomize: randomizes cells on the grid with a 30:70 ratio of live and dead cells.
+
+**Clicking**
+* toggles the cell between dead and alive.
+* a dead cell becomes a live and a live cell dies.
 
 ---
 
