@@ -12,9 +12,7 @@
 	* [Random](#random)
 4. [How to use](#how-to-use)
 
-<p align="center">
-	<img src="assets/random.gif" width="600px">
-</p>
+>
 
 ## Introduction
 
@@ -22,6 +20,10 @@ John Conway's Game of Life is an example of cellular automata.
 It simulates the life of cells.
 The grid contains squares which either contain a live cell or a dead cell.
 As time passes, cells either die or come alive according to specific rules.
+
+<p align="center">
+	<img src="assets/random.gif" width="600px">
+</p
 
 ## Rules
 
@@ -58,7 +60,7 @@ These patterns grow indefinitely by generating spaceships during each period.
 
 #### Random
 
-These patterns behave chaotically and either become destroyed or become one of the other forms
+These patterns behave chaotically and either become destroyed or become one of the other forms.
 
 <img src="assets/random2.gif" width="400px">
 
