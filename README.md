@@ -47,7 +47,7 @@ These patterns grow indefinitely by generating spaceships during each period.
 
 These patterns behave chaotically and either become destroyed or become one of the other forms
 
-
+---
 
 **Sources**
 
