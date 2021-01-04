@@ -12,6 +12,10 @@
 	* [Random](#random)
 4. [How to use](#how-to-use)
 
+<p align="center">
+	<img src="assets/random.gif" width="600px">
+</p>
+
 ## Introduction
 
 John Conway's Game of Life is an example of cellular automata.
@@ -30,23 +34,33 @@ As time passes, cells either die or come alive according to specific rules.
 
 #### Still Lifes
 
-These patterns stay constant indefinitely as time passes.
+These patterns stay constant indefinitely as time passes. An oscillating pattern is included to show that time is passing.
+
+<img src="assets/still-lifes.gif" width="400px">
 
 #### Oscillators
 
-These patters repeat after a certain number of iterations.
+These patters repeat after a certain number of iterations. The period of each oscillator may vary.
+
+<img src="assets/oscillators.gif" width="400px">
 
 #### Spaceships
 
-These patterns repeat after a certain number of iterations but move a certain distance in each period.
+These patterns repeat after a certain number of iterations but move a certain distance in each period. On the left is the Glider and on the right is the Light Weight Space Ship.
+
+<img src="assets/glider.gif" width="400px"> <img src="assets/lwss.gif" width="400px">
 
 #### Generators
 
 These patterns grow indefinitely by generating spaceships during each period.
 
+<img src="assets.gosper-gun.gif" width="400px">
+
 #### Random
 
 These patterns behave chaotically and either become destroyed or become one of the other forms
+
+<img src="assets.random2.gif" width="400px">
 
 
 ## How to Use
