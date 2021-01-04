@@ -54,13 +54,13 @@ These patterns repeat after a certain number of iterations but move a certain di
 
 These patterns grow indefinitely by generating spaceships during each period.
 
-<img src="assets.gosper-gun.gif" width="400px">
+<img src="assets/gosper-gun.gif" width="400px">
 
 #### Random
 
 These patterns behave chaotically and either become destroyed or become one of the other forms
 
-<img src="assets.random2.gif" width="400px">
+<img src="assets/random2.gif" width="400px">
 
 
 ## How to Use
