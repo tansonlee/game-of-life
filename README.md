@@ -1,5 +1,7 @@
 # John Conway's Game of Life
 
+Link to hosted project: [Game of Life](https://tansonlee.github.io/game-of-life/)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
